@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\parcelsorting\\BoxAndSortingLine.Test\\BoxAndSortingLine.Test.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\Programming\\BoxAndSortingLine.Test\\BoxAndSortingLine.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\parcelsorting\\BoxAndSortingLine.Test\\BoxAndSortingLine.Test.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\Programming\\BoxAndSortingLine.Test\\BoxAndSortingLine.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\parcelsorting\\BoxAndSortingLine.Test\\BoxAndSortingLine.Test.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Programming\\BoxAndSortingLine.Test\\BoxAndSortingLine.Test.csproj",
         "projectName": "BoxAndSortingLine.Test",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\parcelsorting\\BoxAndSortingLine.Test\\BoxAndSortingLine.Test.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\Programming\\BoxAndSortingLine.Test\\BoxAndSortingLine.Test.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\parcelsorting\\BoxAndSortingLine.Test\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\Programming\\BoxAndSortingLine.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\opilane\\source\\repos\\parcelsorting\\parcelsorting\\parcelsorting.csproj": {
-                "projectPath": "C:\\Users\\opilane\\source\\repos\\parcelsorting\\parcelsorting\\parcelsorting.csproj"
+              "C:\\Users\\opilane\\source\\repos\\Programming\\parcelsorting\\parcelsorting.csproj": {
+                "projectPath": "C:\\Users\\opilane\\source\\repos\\Programming\\parcelsorting\\parcelsorting.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\opilane\\source\\repos\\parcelsorting\\parcelsorting\\parcelsorting.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\Programming\\parcelsorting\\parcelsorting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\parcelsorting\\parcelsorting\\parcelsorting.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Programming\\parcelsorting\\parcelsorting.csproj",
         "projectName": "parcelsorting",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\parcelsorting\\parcelsorting\\parcelsorting.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\Programming\\parcelsorting\\parcelsorting.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\parcelsorting\\parcelsorting\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\Programming\\parcelsorting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

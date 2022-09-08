@@ -38,6 +38,8 @@ namespace BoxAndSortingLine.Test
                 }
             }
             };
+            bool result = Program.ParcelLineFitController(boxSizes);
+            Assert.False(result);
             }
     }
 }

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\parcelsorting\\parcelsorting\\parcelsorting.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Programming\\parcelsorting\\parcelsorting.csproj",
       "projectName": "parcelsorting",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\parcelsorting\\parcelsorting\\parcelsorting.csproj",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\Programming\\parcelsorting\\parcelsorting.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\parcelsorting\\parcelsorting\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\Programming\\parcelsorting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
