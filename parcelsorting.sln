@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parcelsorting", "parcelsorting\parcelsorting.csproj", "{B632D158-7308-4D2B-ADAD-CEEB4A27F972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxAndSortingLine.Test", "BoxAndSortingLine.Test\BoxAndSortingLine.Test.csproj", "{95AC5998-FF6B-48D2-8B33-FBBB20D1BDA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B632D158-7308-4D2B-ADAD-CEEB4A27F972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B632D158-7308-4D2B-ADAD-CEEB4A27F972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B632D158-7308-4D2B-ADAD-CEEB4A27F972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B632D158-7308-4D2B-ADAD-CEEB4A27F972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95AC5998-FF6B-48D2-8B33-FBBB20D1BDA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AC5998-FF6B-48D2-8B33-FBBB20D1BDA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AC5998-FF6B-48D2-8B33-FBBB20D1BDA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AC5998-FF6B-48D2-8B33-FBBB20D1BDA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {880AEFC7-01A4-499D-9AF8-CA55A2EDF4A6}
+	EndGlobalSection
+EndGlobal
